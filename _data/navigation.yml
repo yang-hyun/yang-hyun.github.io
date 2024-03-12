@@ -21,3 +21,7 @@ sidebar-category:
       - title: "Machine Learning"
         url: "/ml"
         category: "ml"
+
+      - title: "Reading"
+        url: "/reading"
+        category: "reading"
